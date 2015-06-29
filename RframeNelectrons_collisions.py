@@ -19,6 +19,8 @@ import time
 
 #from PlotNManyElectronsT2_24Nov2014 import *
 
+nathan = np.arange(0,1)
+
 import cProfile, pstats, StringIO
 pr = cProfile.Profile()
 pr.enable()
